@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thino Mayele
-- 👀 I’m interested in Cybersecurity, System Administration, MECM, Intune
+- 👀 I’m interested in Cybersecurity, System Administration/Engineering, MECM, Intune
 - 🌱 I’m currently learning Powershell, Python to move more close to Automation and some AI and Data manipulation
 - 💞️ I’m looking to collaborate on any cool thing technology
 - 📫 How to reach me @genaromayeles on twitter and Github
